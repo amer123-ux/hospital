@@ -38,8 +38,4 @@ public class PatienService {
          return  list;
      }
 
-//    public Patient GetNameInFormJeson(String name){
-//        String n = patientModel.GetNames().
-//
-//    }
 }
